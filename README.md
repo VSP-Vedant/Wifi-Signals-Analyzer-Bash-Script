@@ -32,11 +32,11 @@ cd Wifi-Signals-Analyzer-Bash-Script
 ```
 Make the script executable:
 ```bash
-chmod +x networkscan.sh
+chmod +x advanced-network-scan.sh
 ```
 Run the script with root privileges:
 ```bash
-sudo ./networkscan.sh
+sudo ./advanced-network-scan.sh
 ```
 ## Input Parameters (Interactive Mode)
 Upon running the script, you will be prompted for the following inputs:
